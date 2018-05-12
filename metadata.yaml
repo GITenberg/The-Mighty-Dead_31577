@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35339
     wikipedia: http://en.wikipedia.org/wiki/William_Campbell_Gault
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31577#The-Mighty-Dead
 gutenberg_issued: '2010-03-09'
 gutenberg_type: Text
 identifiers:
